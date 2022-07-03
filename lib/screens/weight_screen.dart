@@ -1,9 +1,5 @@
-import 'dart:convert';
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_picker/flutter_picker.dart';
-import 'package:ten_seconds/data/picker_data.dart';
 import 'package:ten_seconds/screens/reps.dart';
 import 'package:ten_seconds/screens/weights.dart';
 
