@@ -10,6 +10,7 @@ class TodoCard extends StatefulWidget {
   final Function deleteFunction;
 
   TodoCard({
+    required this.isChecked,
     required this.id,
     required this.title,
     required this.creationDate,
